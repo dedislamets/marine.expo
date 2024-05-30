@@ -1,13 +1,12 @@
 {
   "expo": {
-    "name": "mbapps",
-    "slug": "mbapps",
+    "name": "Marine Business",
+    "slug": "MarineBusiness",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/main.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +21,23 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/launcher.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "id.marinebusiness.apps.com",
+      "googleServicesFile": "./google-services.json",
+      "permissions": [
+        "android.permission.RECORD_AUDIO"
+      ]
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "648eb7e9-b622-47bd-baa9-580eead9e305"
+      }
     }
   }
 }

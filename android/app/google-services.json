@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "97634536306",
+    "firebase_url": "https://marine-business-1517324327947.firebaseio.com",
+    "project_id": "marine-business-1517324327947",
+    "storage_bucket": "marine-business-1517324327947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97634536306:android:92059220197ac4fb102beb",
+        "android_client_info": {
+          "package_name": "id.marinebusiness.apps.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97634536306-1r7bp2ben1ubsivustaq81p9iik1q5oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsTQ1qsC0nFceN1OQcHUyCCRU23Kc3wcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97634536306-1r7bp2ben1ubsivustaq81p9iik1q5oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
